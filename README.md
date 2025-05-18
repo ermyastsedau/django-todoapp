@@ -21,4 +21,4 @@ User Registration
 
 Login
 
-![Todo UI]([screenshots/todo-ui.png](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/login.jpg))
+![Todo UI](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/login.jpg)
