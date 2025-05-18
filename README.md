@@ -9,15 +9,15 @@ Features
 
 Home Page
 
-![image alt]([screenshots/todo-ui.png](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/home%20page.jpg))
+![Home alt](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/home%20page.jpg)
 
 Filteration and Task creation fields
 
-![Todo UI]([screenshots/todo-ui.png](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/filteration%20and%20creation%20of%20tasks.jpg))
+![Todo UI](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/filteration%20and%20creation%20of%20tasks.jpg)
 
 User Registration
 
-![Todo UI]([screenshots/todo-ui.png](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/user%20registration.jpg))
+![Todo UI](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/user%20registration.jpg)
 
 Login
 
