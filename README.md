@@ -9,7 +9,7 @@ Features
 
 Home Page
 
-![Todo UI]([screenshots/todo-ui.png](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/home%20page.jpg))
+![image alt]([screenshots/todo-ui.png](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/home%20page.jpg))
 
 Filteration and Task creation fields
 
