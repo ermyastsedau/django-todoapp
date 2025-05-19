@@ -22,3 +22,7 @@ User Registration
 Login
 
 ![Todo UI](https://github.com/ermyastsedau/django-todoapp/blob/13031166b1cc3bf5db6635998700aae9cdfe6c1f/login.jpg)
+
+Test Image
+
+![filteration and creation of tasks](https://github.com/user-attachments/assets/cb872f5d-1982-4e30-ac15-0aca45d649dd)
